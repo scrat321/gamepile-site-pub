@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450">
+  <rect width="800" height="450" fill="#222"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="40" fill="#42b883" font-family="monospace">
+    Gamepile Screenshot
+  </text>
+</svg>
