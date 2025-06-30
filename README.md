@@ -15,7 +15,8 @@ Gamepile is a **desktop app built with Electron and Vue 3** that helps you organ
 - 🚀 Launch games directly from your library  
 - 📥 Easily import metadata from **Steam**, **RAWG**, **IGDB**, and **SteamGridDB**    
 - 🖼️ View game media and related websites at your fingertips
-- ✏️ Add, edit, or delete games with ease  
+- ✏️ Add, edit, or delete games with ease
+- 🔍 Filter, search, and sort through your whole collection  
 - 💰 Keep track of individual or bundled game purchases  
 - 💾 Full and incremental backups of game data, assets, and settings  
 - 🔄 Automatic update checks with one-click access to new releases  
