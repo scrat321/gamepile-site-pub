@@ -59,4 +59,4 @@ The software is provided **“as is”**, without warranty of any kind.
 ## 📌 Release Notes
 
 For detailed changelogs and update history, see  
-📄 [`docs/release-notes.md`](docs/release-notes.md)
+📄 [https://scrat321.github.io/gamepile-site-pub/#/release-history](https://scrat321.github.io/gamepile-site-pub/#/release-history)
