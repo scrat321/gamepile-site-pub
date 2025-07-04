@@ -1,7 +1,7 @@
 # 🎮 Gamepile  
 *Manage your personal game library with ease.*
 
-![Library View](https://scrat321.github.io/gamepile-site-pub/assets/screenshot1-DnLnq6hM.jpg)
+![Library View](https://scrat321.github.io/gamepile-site-pub/assets/screenshot1-CMJt5hPi.webp)
 
 👉 [**Download Gamepile**](https://scrat321.github.io/gamepile-site-pub)
 
