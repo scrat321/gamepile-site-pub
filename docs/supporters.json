@@ -30,13 +30,5 @@
     "icon": "pi-thumbs-up-fill",
     "amount": 0,
     "receivedOn": "Jan 1 2030"
-  },
-  {
-    "name": "Pixel Perfect",
-    "tier": "Bronze Supporter",
-    "tierId": "bronze",
-    "icon": "pi-thumbs-up-fill",
-    "amount": 5,
-    "receivedOn": "Jan 5 2030"
   }
 ]
