@@ -4,27 +4,27 @@
     "tier": "Platinum Supporter",
     "tierId": "platinum",
     "icon": "pi-crown",
-    "amount": 50
+    "amount": 0
   },
   {
     "name": "Your Name Here",
     "tier": "Gold Supporter",
     "tierId": "gold",
     "icon": "pi-star-fill",
-    "amount": 25
+    "amount": 0
   },
   {
     "name": "Your Name Here",
     "tier": "Silver Supporter",
     "tierId": "silver",
     "icon": "pi-heart-fill",
-    "amount": 10
+    "amount": 0
   },
   {
     "name": "Your Name Here",
     "tier": "Bronze Supporter",
     "tierId": "bronze",
     "icon": "pi-thumbs-up-fill",
-    "amount": 1
+    "amount": 0
   }
 ]
