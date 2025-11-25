@@ -4,27 +4,31 @@
     "tier": "Platinum Supporter",
     "tierId": "platinum",
     "icon": "pi-crown",
-    "amount": 0
+    "amount": 0,
+    "receivedOn": "Jan 4 2030"
   },
   {
     "name": "Your Name Here",
     "tier": "Gold Supporter",
     "tierId": "gold",
     "icon": "pi-star-fill",
-    "amount": 0
+    "amount": 0,
+    "receivedOn": "Jan 3 2030"
   },
   {
     "name": "Your Name Here",
     "tier": "Silver Supporter",
     "tierId": "silver",
     "icon": "pi-heart-fill",
-    "amount": 0
+    "amount": 0,
+    "receivedOn": "Jan 2 2030"
   },
   {
     "name": "Your Name Here",
     "tier": "Bronze Supporter",
     "tierId": "bronze",
     "icon": "pi-thumbs-up-fill",
-    "amount": 5
+    "amount": 0,
+    "receivedOn": "Jan 1 2030"
   }
 ]
