@@ -38,5 +38,13 @@
     "icon": "pi-thumbs-up-fill",
     "amount": 5,
     "receivedOn": "Jan 5 2030"
+  },
+  {
+    "name": "Code Master",
+    "tier": "Bronze Supporter",
+    "tierId": "bronze",
+    "icon": "pi-thumbs-up-fill",
+    "amount": 5,
+    "receivedOn": "Jan 6 2030"
   }
 ]
