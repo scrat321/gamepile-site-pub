@@ -46,5 +46,13 @@
     "icon": "pi-thumbs-up-fill",
     "amount": 5,
     "receivedOn": "Jan 6 2030"
+  },
+  {
+    "name": "User A",
+    "tier": "Bronze Supporter",
+    "tierId": "bronze",
+    "icon": "pi-thumbs-up-fill",
+    "amount": 5,
+    "receivedOn": "Jan 7 2030"
   }
 ]
