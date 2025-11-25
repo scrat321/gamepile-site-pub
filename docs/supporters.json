@@ -3,168 +3,28 @@
     "name": "Your Name Here",
     "tier": "Platinum Supporter",
     "tierId": "platinum",
-    "icon": "pi-crown"
+    "icon": "pi-crown",
+    "amount": 50
   },
   {
     "name": "Your Name Here",
     "tier": "Gold Supporter",
     "tierId": "gold",
-    "icon": "pi-star-fill"
+    "icon": "pi-star-fill",
+    "amount": 25
   },
   {
     "name": "Your Name Here",
     "tier": "Silver Supporter",
     "tierId": "silver",
-    "icon": "pi-heart-fill"
+    "icon": "pi-heart-fill",
+    "amount": 10
   },
   {
     "name": "Your Name Here",
     "tier": "Bronze Supporter",
     "tierId": "bronze",
-    "icon": "pi-thumbs-up-fill"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Platinum Supporter",
-    "tierId": "platinum",
-    "icon": "pi-crown"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Gold Supporter",
-    "tierId": "gold",
-    "icon": "pi-star-fill"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Silver Supporter",
-    "tierId": "silver",
-    "icon": "pi-heart-fill"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Bronze Supporter",
-    "tierId": "bronze",
-    "icon": "pi-thumbs-up-fill"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Platinum Supporter",
-    "tierId": "platinum",
-    "icon": "pi-crown"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Gold Supporter",
-    "tierId": "gold",
-    "icon": "pi-star-fill"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Silver Supporter",
-    "tierId": "silver",
-    "icon": "pi-heart-fill"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Bronze Supporter",
-    "tierId": "bronze",
-    "icon": "pi-thumbs-up-fill"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Platinum Supporter",
-    "tierId": "platinum",
-    "icon": "pi-crown"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Gold Supporter",
-    "tierId": "gold",
-    "icon": "pi-star-fill"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Silver Supporter",
-    "tierId": "silver",
-    "icon": "pi-heart-fill"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Bronze Supporter",
-    "tierId": "bronze",
-    "icon": "pi-thumbs-up-fill"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Platinum Supporter",
-    "tierId": "platinum",
-    "icon": "pi-crown"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Gold Supporter",
-    "tierId": "gold",
-    "icon": "pi-star-fill"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Silver Supporter",
-    "tierId": "silver",
-    "icon": "pi-heart-fill"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Bronze Supporter",
-    "tierId": "bronze",
-    "icon": "pi-thumbs-up-fill"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Platinum Supporter",
-    "tierId": "platinum",
-    "icon": "pi-crown"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Gold Supporter",
-    "tierId": "gold",
-    "icon": "pi-star-fill"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Silver Supporter",
-    "tierId": "silver",
-    "icon": "pi-heart-fill"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Bronze Supporter",
-    "tierId": "bronze",
-    "icon": "pi-thumbs-up-fill"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Platinum Supporter",
-    "tierId": "platinum",
-    "icon": "pi-crown"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Gold Supporter",
-    "tierId": "gold",
-    "icon": "pi-star-fill"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Silver Supporter",
-    "tierId": "silver",
-    "icon": "pi-heart-fill"
-  },
-  {
-    "name": "Your Name Here",
-    "tier": "Bronze Supporter",
-    "tierId": "bronze",
-    "icon": "pi-thumbs-up-fill"
+    "icon": "pi-thumbs-up-fill",
+    "amount": 1
   }
 ]
