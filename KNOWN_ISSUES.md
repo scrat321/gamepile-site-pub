@@ -1,4 +1,4 @@
-# Gamepile v1.0.0-alpha.18 — Known Issues
+# Known issues in the current release
 
-No known issues have been confirmed for this release yet. If you run into
+No known issues have been confirmed for the current release yet. If you run into
 something, please report it so it can be tracked here.
